@@ -1,0 +1,11 @@
+{
+  "key.category.key_timer": "KeyTimer",
+  "key.key_timer.start_stop": "タイマー スタート ストップ",
+  "key.key_timer.clear": "タイマー リセット",
+  "chat.key_timer.start": "計測開始",
+  "chat.key_timer.stop": "一時停止 ",
+  "chat.key_timer.restart": "計測再開",
+  "chat.key_timer.clear": "計測終了 ",
+  "hover.key_timer.copy": "クリックボードにコピー",
+  "actionbar.key_timer.timer": "%s:%s:%s.%s"
+}

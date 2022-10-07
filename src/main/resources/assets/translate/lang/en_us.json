@@ -1,0 +1,11 @@
+{
+  "key.category.key_timer": "KeyTimer",
+  "key.key_timer.start_stop": "Timer start , stop",
+  "key.key_timer.clear": "Timer reset",
+  "chat.key_timer.start": "start",
+  "chat.key_timer.stop": "stop ",
+  "chat.key_timer.restart": "restart",
+  "chat.key_timer.clear": "reset ",
+  "hover.key_timer.copy": "copy to clipboard",
+  "actionbar.key_timer.timer": "%s:%s:%s.%s"
+}
